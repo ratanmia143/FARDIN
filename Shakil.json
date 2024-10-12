@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "TOM-BOT",
+  "BOTNAME": "Fardin",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "61564959257681",
+    "61566660550510",
     ""
   ],
   "OWNER": ["100000959749712"], 
